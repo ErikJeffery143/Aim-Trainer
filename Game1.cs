@@ -20,7 +20,7 @@ namespace Aim_Trainer
         List<Rectangle> Bullets;
         SoundEffect Gunshotsoundeffect;
         Texture2D crosshair;
-
+         
         MouseState mouseState;
         KeyboardState keyboardState;
          
